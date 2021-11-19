@@ -8,6 +8,9 @@
 
 body{
     background-color: var(--bgColor);
+    text-align: center;
+    font-family: var(--font);
+    color: #bbb;
 }
 
 #userPhoto{
