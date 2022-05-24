@@ -73,4 +73,41 @@ body{
             max-height: 100vh;
             margin: auto;
         }
+ 
+  /*h2 {color: #4ea482;}
+  p {color: #d9cc98;}*/
+
+a:link {
+  color: #bbbbbb;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #bbbbbb;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #d9cc98;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #bbbbbb;
+  text-decoration: none;
+}
+
+h1 {
+font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0;
+            padding: 0;
+            text-align:center;
+            
+}
+
 </style>
