@@ -1,10 +1,12 @@
 /* Style Settings */
 /*@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');*/
+/*https://www.w3schools.com/css/css_font_google.asp*/
+@import url('https://fonts.googleapis.com/css?family=Share Tech Mono');
 :root {
     --bgColor:#1C1C1C;
     --accentColor: #E6E6E6;
    /*--font: 'Karla', sans-serif;*/
-    --font: 'Bitstream Vera Sans Mono';
+    --font: 'Share Tech Mono';
 }
 
 body{
@@ -101,13 +103,13 @@ a:active {
 }
 
 h1 {
-font-size: 2.5vw;
+    font-size: 2.5vw;
     font-weight: 600;
     line-height: 1.25;
     margin: 0;
-            padding: 0;
-            text-align:center;
-            
+    padding: 0;
+    text-align:center;
+
 }
 
 </style>
